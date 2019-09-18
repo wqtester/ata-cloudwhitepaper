@@ -1,17 +1,17 @@
 ## 功能介绍
 
 ### 核心功能
-|特性|子特性|功能介绍|
-|:
-|服务发布|开始检查资源|3|
-||sd|sds|
+|test1|test2|ds|
+|----|-----|----|----|
+|hao|dss|ds|
 
-<escape></escape>
+<escape>
 <table>
+  <tbody>
   <tr>
-    <th>项目1</th>
-    <th>项目2</th>
-    <th>项目3</th>
+    <th>特性</th>
+    <th>子特性</th>
+    <th>功能介绍</th>
   </tr>
   <tr>
     <td>a1</td>
@@ -25,5 +25,9 @@
   <tr>
     <td>c2</td>
     <td>c3</td>
+    <td>c3</td>
   </tr>
+  </tbody>
 </table>
+</escape>
+
