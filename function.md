@@ -1,33 +1,4 @@
 ## 功能介绍
 
-### 核心功能
-|test1|test2|ds|
-|----|-----|----|----|
-|hao|dss|ds|
-
-<escape>
-<table>
-  <tbody>
-  <tr>
-    <th>特性</th>
-    <th>子特性</th>
-    <th>功能介绍</th>
-  </tr>
-  <tr>
-    <td>a1</td>
-    <td colspan="2">a2</td>
-  </tr>
-  <tr>
-    <td rowspan="2">b1</td>
-    <td>b2</td>
-    <td>b3</td>
-  </tr>
-  <tr>
-    <td>c2</td>
-    <td>c3</td>
-    <td>c3</td>
-  </tr>
-  </tbody>
-</table>
-</escape>
-
+六大模块详细信息和实操流程详见接下来的介绍，我们将会在页面上从右向左操作，当然最后一个流程——服务发布就是我们OPS系统的核心功能。
+阿塔OPS会在用户登录后将服务模块展示为首页，当用户在其它页面的时候也可以点击左上角的阿塔云logo瞬间回到服务模块。
