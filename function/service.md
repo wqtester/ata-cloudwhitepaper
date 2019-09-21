@@ -33,7 +33,7 @@ OPS安装时附带安装的托管Gitlab，OPS将自动管理此Gitlab，自动�
 显示已发布服务的运行情况
 
 ##### 服务配置
-详见[服务配置](../function/deploy.md)
+详见[发布配置](../function/config.md)
 
 ##### 镜像管理
 镜像删除
