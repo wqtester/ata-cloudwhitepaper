@@ -44,9 +44,9 @@ OPS安装时附带安装的托管Gitlab，OPS将自动管理此Gitlab，自动�
 详见[发布配置](../function/config.md)
 
 #### 镜像管理
-##### 镜像信息  
 每次构建发布都会创建出一个新镜像。
 
+##### 镜像信息  
 - 镜像名：项目CODE/服务CODE
 
 - 镜像tag：环境CODE-代码分支-构建时间（yyyyMMdd-HHmm）
