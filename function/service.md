@@ -11,7 +11,7 @@
 如果服务没有创建代码库，可选"Bazooka托管Gitlab"自动创建服务代码库；如果服务已有代码库亦可选择"自定义git代码仓库"直接关联已有代码库（需要配置代码库的访问凭证）。
 
 ![](/assets/服务-新建服务方式.png)
-- ###### 1、OPS托管Gitlab
+- ###### 1、Bazooka托管Gitlab
 
 Bazooka安装时附带安装的托管Gitlab，Bazooka将自动管理此Gitlab，自动创建和管理项目和服务，拉取代码时使用token，不需要额外设置凭据。
 <br>
