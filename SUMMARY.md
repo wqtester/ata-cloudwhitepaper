@@ -12,6 +12,6 @@
   * [1.3.7 发布配置](function/config.md)
   * [1.3.8 服务发布](function/deploy.md)
 * [1.4 版本预热](version.md)
-  * [1.4.1 ata-cloud 2.0](version/ata-cloud 2.0.md)
+  * [1.4.1 Bazooka 1.5](version/ata-cloud 2.0.md)
 * [1.5 结语](epilog.md)
 
