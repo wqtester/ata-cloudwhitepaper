@@ -8,9 +8,10 @@
 * [1.6 环境管理](function/env.md)
 * [1.7 项目管理](function/project.md)
 * [1.8 服务管理](function/service.md)
-* [1.8.1 服务发布](function/deploy.md)
-* [1.3.8 服务发布](function/deploy.md)
-* [1.3.7 发布配置](function/config.md)
+  * [1.8.1 Mesos服务发布配置](function/config.md)
+  * [1.8.2 Mesos服务发布](function/deploy.md)
+  * 1.8.3 单节点服务发布配置
+  * [1.8.4 单节点服务发布](function/183-dan-ji-dian-fu-wu-fa-bu.md)
 * [1.4 版本预热](version.md)
   * [1.4.1 Bazooka 1.5](version/Bazooka 1.5.md)
 * [1.5 结语](epilog.md)
