@@ -1,0 +1,18 @@
+{
+    "plugins": [
+        "popup",
+        "back-to-top-button",
+        "github",
+        "tbfed-pagefooter"
+    ],
+    "pluginsConfig": {
+        "github": {
+           "url": "https://github.com/ata-cloud/bazooka"
+      },
+      "tbfed-pagefooter": {
+           "copyright":"Copyright &copy atayun 2019",
+           "modify_label": "该文件修订时间：",
+           "modify_format": "YYYY-MM-DD HH:mm:ss"
+      }
+    }
+}
