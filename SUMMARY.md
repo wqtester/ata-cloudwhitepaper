@@ -14,6 +14,6 @@
   * [1.8.3 单节点服务发布配置](function/183-dan-jie-dian-fu-wu-fa-bu-pei-zhi.md)
   * [1.8.4 单节点服务发布](function/183-dan-ji-dian-fu-wu-fa-bu.md)
 * [1.9 版本预热](version.md)
-  * [1.9.1 Bazooka 1.5](version/Bazooka 1.5.md)
+  * [1.9.1 Bazooka 2.0](version/Bazooka 2.0.md)
 * [2.0  结语](epilog.md)
 
