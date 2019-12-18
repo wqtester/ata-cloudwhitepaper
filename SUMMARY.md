@@ -2,7 +2,6 @@
 
 * [1.1 前言](README.md)
 * [1.2 体系结构](introduction.md)
-  * [1.2.1 操作流程](111.md)
 * [1.3 系统信息](function/system.md)
 * [1.4 用户管理](function/upms.md)
 * [1.5 资源管理](function/resource.md)
